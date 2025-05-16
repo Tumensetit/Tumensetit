@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm a student at University of Oulu, studying Information processing science. Currently have the most experience in C, Java and Python. And obviously Git. :P
+I'm Tuomas, a student at University of Oulu, studying Information processing science.
 
-Projects you see here is not all of my work, since not everything can be shared publicly. To see more please contact me via my email: tuomo2002@gmail.com
 
 <!--
 **Tumensetit/Tumensetit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
